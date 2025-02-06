@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="ARImage1" size="5.000000 6.737194" />
+    <ImageTarget name="VirtualButton" size="5.000000 3.516007" />
   </Tracking>
 </QCARConfig>
