@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="gdbrochure_scaled" size="5.000000 11.352550" />
+    <ImageTarget name="AlokVisiting" size="5.000000 2.857143" />
     <ImageTarget name="VirtualButton" size="5.000000 3.516007" />
+    <ImageTarget name="ARImage1" size="5.000000 6.737194" />
+    <CylinderTarget name="CY1" sideLength="24.000000"/>
+    <CylinderTarget name="Cylindrical" sideLength="24.000000"/>
   </Tracking>
 </QCARConfig>
