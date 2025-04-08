@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MarkerbaseARProject/Scene/MarkerbaseARProject.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
+  - enabled: 1
     path: Assets/Markerless AR Project/Scene/MarkerlessARProject.unity
     guid: 253cdec505217f840845ea3661a566b6
-  - enabled: 1
+  - enabled: 0
     path: Assets/CylindericalObject/Scenes/CylindericalObject.unity
     guid: ae267969cee9aa245affe0b0c156e66e
   m_configObjects: {}
